@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: bisque;
+    border: 10px solid rgb(27, 4, 41);
+    border-radius: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+    
+    
+   
+    
+}
+
+div{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px; 
+    margin-bottom: 200px;
+    background-color: aqua;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
